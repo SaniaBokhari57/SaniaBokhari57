@@ -29,7 +29,6 @@ I’m a Business Analytics professional skilled in turning complex customer and 
 
 ## 🌱 Currently
 Looking for **Data Analyst / Business Analyst / People Analyst** roles where I can apply my skills in SQL, Python, dashboards, and predictive analytics.  
-Let’s connect — always open to new opportunities and collaborations.
 
 ---
 
